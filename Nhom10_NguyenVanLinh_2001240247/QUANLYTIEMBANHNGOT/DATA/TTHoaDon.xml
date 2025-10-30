@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tiem>
+  <Khach>
+    <MaKH>KH001</MaKH>
+    <TenKH>Nguyễn Văn A</TenKH>
+    <SDT>0909887766</SDT>
+    <DanhSachBanh>
+      <Banh Loai="BanhKem">
+        <MaBanh>BK001</MaBanh>
+        <TenBanh>Kem Socola</TenBanh>
+        <NgaySanXuat>2025-10-20</NgaySanXuat>
+        <HanSuDung>15</HanSuDung>
+        <GiaBan>200000</GiaBan>
+        <KichThuoc>28</KichThuoc>
+      </Banh>
+      <Banh Loai="BanhNgot">
+        <MaBanh>BN001</MaBanh>
+        <TenBanh>Bánh Matcha</TenBanh>
+        <NgaySanXuat>2025-10-26</NgaySanXuat>
+        <HanSuDung>5</HanSuDung>
+        <GiaBan>25000</GiaBan>
+        <CachBaoQuan>Lạnh</CachBaoQuan>
+      </Banh>
+      <Banh Loai="BanhHandmade">
+        <MaBanh>BH001</MaBanh>
+        <TenBanh>Bánh Socola đồng tiền</TenBanh>
+        <NgaySanXuat>2025-10-15</NgaySanXuat>
+        <HanSuDung>30</HanSuDung>
+        <GiaBan>173891.111145</GiaBan>
+        <DongBanh>Singapore</DongBanh>
+      </Banh>
+      <Banh Loai="BanhNgot">
+        <MaBanh>BN005</MaBanh>
+        <TenBanh>Croissant Bơ</TenBanh>
+        <NgaySanXuat>2025-10-27</NgaySanXuat>
+        <HanSuDung>3</HanSuDung>
+        <GiaBan>18000</GiaBan>
+        <CachBaoQuan>Không lạnh</CachBaoQuan>
+      </Banh>
+    </DanhSachBanh>
+  </Khach>
+  <Khach>
+    <MaKH>KH002</MaKH>
+    <TenKH>Lê Thị B</TenKH>
+    <SDT>0911223344</SDT>
+    <DanhSachBanh>
+      <Banh Loai="BanhKem">
+        <MaBanh>BK002</MaBanh>
+        <TenBanh>Bánh kem phô mai</TenBanh>
+        <NgaySanXuat>2025-10-22</NgaySanXuat>
+        <HanSuDung>10</HanSuDung>
+        <GiaBan>180000</GiaBan>
+        <KichThuoc>32</KichThuoc>
+      </Banh>
+      <Banh Loai="BanhNgot">
+        <MaBanh>BN002</MaBanh>
+        <TenBanh>Su Kem Vanilla</TenBanh>
+        <NgaySanXuat>2025-10-27</NgaySanXuat>
+        <HanSuDung>2</HanSuDung>
+        <GiaBan>22000</GiaBan>
+        <CachBaoQuan>Lạnh</CachBaoQuan>
+      </Banh>
+      <Banh Loai="BanhHandmade">
+        <MaBanh>BH002</MaBanh>
+        <TenBanh>Bánh trà sữa</TenBanh>
+        <NgaySanXuat>2025-07-20</NgaySanXuat>
+        <HanSuDung>120</HanSuDung>
+        <GiaBan>185483.851888</GiaBan>
+        <DongBanh>Đài Loan</DongBanh>
+      </Banh>
+    </DanhSachBanh>
+  </Khach>
+  <Khach>
+    <MaKH>KH003</MaKH>
+    <TenKH>Phạm Văn C</TenKH>
+    <SDT>0933557799</SDT>
+    <DanhSachBanh>
+      <Banh Loai="BanhKem">
+        <MaBanh>BK003</MaBanh>
+        <TenBanh>Kem Tiramisu</TenBanh>
+        <NgaySanXuat>2025-10-18</NgaySanXuat>
+        <HanSuDung>20</HanSuDung>
+        <GiaBan>250000</GiaBan>
+        <KichThuoc>32</KichThuoc>
+      </Banh>
+      <Banh Loai="BanhNgot">
+        <MaBanh>BN003</MaBanh>
+        <TenBanh>Bánh quy socola</TenBanh>
+        <NgaySanXuat>2025-10-10</NgaySanXuat>
+        <HanSuDung>30</HanSuDung>
+        <GiaBan>35000</GiaBan>
+        <CachBaoQuan>Không lạnh</CachBaoQuan>
+      </Banh>
+      <Banh Loai="BanhHandmade">
+        <MaBanh>BH003</MaBanh>
+        <TenBanh>Bánh oreo</TenBanh>
+        <NgaySanXuat>2025-06-15</NgaySanXuat>
+        <HanSuDung>150</HanSuDung>
+        <GiaBan>139112.888916</GiaBan>
+        <DongBanh>Singapore</DongBanh>
+      </Banh>
+      <Banh Loai="BanhHandmade">
+        <MaBanh>BH005</MaBanh>
+        <TenBanh>Bánh nine xoài</TenBanh>
+        <NgaySanXuat>2025-10-20</NgaySanXuat>
+        <HanSuDung>45</HanSuDung>
+        <GiaBan>110131.0370585</GiaBan>
+        <DongBanh>Đài Loan</DongBanh>
+      </Banh>
+    </DanhSachBanh>
+  </Khach>
+  <Khach>
+    <MaKH>KH004</MaKH>
+    <TenKH>Trần Thị D</TenKH>
+    <SDT>0944776611</SDT>
+    <DanhSachBanh>
+      <Banh Loai="BanhKem">
+        <MaBanh>BK004</MaBanh>
+        <TenBanh>Kem Caramel</TenBanh>
+        <NgaySanXuat>2025-10-25</NgaySanXuat>
+        <HanSuDung>12</HanSuDung>
+        <GiaBan>190000</GiaBan>
+        <KichThuoc>24</KichThuoc>
+      </Banh>
+      <Banh Loai="BanhNgot">
+        <MaBanh>BN004</MaBanh>
+        <TenBanh>Donut Matcha</TenBanh>
+        <NgaySanXuat>2025-10-26</NgaySanXuat>
+        <HanSuDung>4</HanSuDung>
+        <GiaBan>20000</GiaBan>
+        <CachBaoQuan>Lạnh</CachBaoQuan>
+      </Banh>
+    </DanhSachBanh>
+  </Khach>
+</Tiem>
